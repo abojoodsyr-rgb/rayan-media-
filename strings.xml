@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rayantube</string>
+    <string name="home_title">الرئيسية</string>
+    <string name="downloads_title">التنزيلات</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="url_hint">الصق رابط ملف فيديو مباشر (مثال: رابط ينتهي بـ .mp4)</string>
+    <string name="download_button">تنزيل</string>
+    <string name="empty_downloads">لا توجد تنزيلات بعد</string>
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="clear_cache">مسح ذاكرة التخزين المؤقت</string>
+    <string name="about_app">عن التطبيق</string>
+    <string name="scope_note">يدعم Rayantube تنزيل أي رابط فيديو مباشر (ملف MP4 أو WebM إلخ). لا يتضمن التطبيق أي أداة لاستخراج فيديوهات من صفحات يوتيوب أو إنستقرام أو تيك توك أو فيسبوك، لأن ذلك يخالف شروط استخدام تلك المنصات.</string>
+</resources>
